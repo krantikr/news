@@ -5,7 +5,7 @@ const Header = (props) => {
             <div className="container clear">
                 <div className="site-branding">
                     <h1 id="logo" className="image-logo">
-                        News
+                        News9
                     </h1>
                 </div>
             </div>
